@@ -11,6 +11,8 @@ public class Gravity {
         double time = a.nextDouble();
         double gravity = 9.8;
         double speed = gravity * time;
+        double distance = (1.0 / 2.0) * gravity * time * time;
+
 		/* TODO 2:
 		 *   a. Declare all your necessary variables inside main
 		/* TODO 2:
