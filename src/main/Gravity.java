@@ -8,7 +8,7 @@ public class Gravity {
 	// TODO 1: Create the main method
 	public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
-
+        double time = a.nextDouble();
 		/* TODO 2:
 		 *   a. Declare all your necessary variables inside main
 		/* TODO 2:
