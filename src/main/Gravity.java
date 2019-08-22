@@ -10,6 +10,7 @@ public class Gravity {
         Scanner a = new Scanner(System.in);
         double time = a.nextDouble();
         double gravity = 9.8;
+        double speed = gravity * time;
 		/* TODO 2:
 		 *   a. Declare all your necessary variables inside main
 		/* TODO 2:
