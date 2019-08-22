@@ -12,6 +12,8 @@ public class Gravity {
         double gravity = 9.8;
         double speed = gravity * time;
         double distance = (1.0 / 2.0) * gravity * time * time;
+        System.out.println("The speed of the object at " + time + " seconds after its release is " + speed + " and the distance the object has travelled in the " + time + " seconds after the relase is " + distance);
+
 
 		/* TODO 2:
 		 *   a. Declare all your necessary variables inside main
