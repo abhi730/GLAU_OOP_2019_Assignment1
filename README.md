@@ -27,9 +27,6 @@ Write a program in which, the method main performs the following actions:
 2. The program assigns value to `time`.
 3. The program calculates the speed and the distance.
 4. The program prints the calculated values. 
-
----
-
 #### Input Format
 The program will input a single value `t` for the time after its release.
 
